@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
